@@ -2,7 +2,7 @@
 
 ## Description
 
-The training starts with the basics of UI development (HTML, CSS, and Javascript). There is no need to have previous knowledge.
+The training starts with the basics of UI development (HTML, CSS, and Javascript).
 
 With the basics understood you will be able to go deep in CSS and Javascript. The following topics will be React and BEM.
 
