@@ -13,17 +13,17 @@ HTML (Hypertext Markup Language) **is not a programming language**; it is a *mar
 You have to think that the code that you are going to write will read it again and again in the future. Not only for you but also for other developers. That's why we need to write quality code.
 
 - HTML
-  - https://developer.mozilla.org/en-US/docs/Web/HTML
-  - https://www.w3.org/standards/webdesign/htmlcss.html
-  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
-  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
+  - [HTML5 Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [W3 - HTML](https://www.w3.org/standards/webdesign/htmlcss.html)
+  - [HTML5 - Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation)
+  - [HTML5 - Multimedia](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
 - Semantic & DOCTYPE
-  - https://diveintohtml5.info/semantics.html
-  - https://www.quirksmode.org/mobile/metaviewport/
+  - [WHAT DOES IT ALL MEAN?](https://diveintohtml5.info/semantics.html)
+  - [META-VIEWPORT](https://www.quirksmode.org/mobile/metaviewport/)
 
 - W3C Accessibility
-  - https://www.w3.org/standards/webdesign/accessibility
+  - [W3 - ACCESSIBILITY](https://www.w3.org/standards/webdesign/accessibility)
 
 ## Tools
 
@@ -67,8 +67,13 @@ After this presentation and reading of the HTML documentation, we are ready for 
   - Add the meta viewport tag. Check what happens in a mobile browser with or without it. (*Remember*: [HTML5 - META-VIEWPORT](https://www.quirksmode.org/mobile/metaviewport/))
   - Validate your markup: W3C Validator (*Remember*: [HTML5 - META-VIEWPORT](http://validator.w3.org/))
 
-- 3 Validate your markup to see if it is accessible: [Tools](./topic1#tools.md)
+- 3 Validate your markup to see if it is accessible: [Tools](./topic1.md#tools.md)
   - Install a screen reader like ChromeVox, and test your HTML document.
-  - Install Accessibility Developer Tools, and perform an audit on your markup. 
+  - Install Accessibility Developer Tools, and perform an audit on your markup.
+
+## Conclusion
+
+> By now, you should have several html files with different examples of how to create lists, tables, add images, headers, etc. All the markup is syntactically valid, is semantic, passes the HTML validator, and is accessible.
+
 
 [-> To index](../README.md#title)
