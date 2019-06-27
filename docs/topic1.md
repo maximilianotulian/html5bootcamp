@@ -15,7 +15,8 @@ You have to think that the code that you are going to write will read it again a
 - HTML
   - https://developer.mozilla.org/en-US/docs/Web/HTML
   - https://www.w3.org/standards/webdesign/htmlcss.html
-  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation <!-- [Form-validation](#form-validation) -->
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding <!-- [Multimedia](#multimedia) -->
 
 - Semantic & DOCTYPE
   - https://diveintohtml5.info/semantics.html
@@ -35,10 +36,18 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 After this presentation and reading of the HTML documentation, we are ready for fun. It's time to develop, are you ready?
 
-- 1- ### HTML Basics
-  - 1A
+### HTML Basics
+
+- 1
+  - 1A (*Just a suggest, i prefer a 'commit' point by point.. so, we can see your progress and identify a problem easily*)
     - Create a basic .html file with a header displaying **"Hello World"**.
     - Change the header to **"My todo list"**.
     - Add a list of **"todo items"** for your daily chores.
+  - 1B
+    - Create another .html file. Create a table for your expenses.
+    - Create another .html file. Add an image, a video, and a sound. (Remember: [HTML5 - Multimedia](./topic1.md#multimedia)
+  - 1C
+    - Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email). (Remember: [HTML5 - Form validation](./topic1.md#form-validation)
+    - Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
 
 [-> To index](../README.md#title)
