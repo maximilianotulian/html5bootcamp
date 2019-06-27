@@ -31,4 +31,14 @@ Through the rest of this section you will create a basic HTML document. After fi
 - Understand how to structure HTML documents, and what the basic building blocks are
 - Understand best practices to write valid, accessible, and semantic HTML markup.
 
+## Exercises
+
+After this presentation and reading of the HTML documentation, we are ready for fun. It's time to develop, are you ready?
+
+- 1- ### HTML Basics
+  - 1A
+    - Create a basic .html file with a header displaying **"Hello World"**.
+    - Change the header to **"My todo list"**.
+    - Add a list of **"todo items"** for your daily chores.
+
 [-> To index](../README.md#title)
