@@ -45,7 +45,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 After this presentation and reading of the HTML documentation, we are ready for fun. It's time to develop, are you ready?
 
-> Just a suggest, i prefer a 'commit' point by point.. so, we can see your progress and identify a problem easily*
+> Just a suggest, i prefer a 'commit' point by point.. so, we can see your progress and identify a problem easily
 
 #### HTML Basics
 
@@ -56,18 +56,18 @@ After this presentation and reading of the HTML documentation, we are ready for 
     - Add a list of **"todo items"** for your daily chores.
   - B
     - Create another .html file. Create a table for your expenses.
-    - Create another .html file. Add an image, a video, and a sound. (Remember: [HTML5 - Multimedia](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+    - Create another .html file. Add an image, a video, and a sound. (*Remember*: [HTML5 - Multimedia](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding))
   - C
-    - Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email). (Remember: [HTML5 - Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation))
+    - Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email). (*Remember*: [HTML5 - Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation))
     - Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
 
 - 2
-  - Add *doctype* to the previously created HTML documents. See what happens if you remove it. (Remember: [HTML5 - DOCTYPE](https://diveintohtml5.info/semantics.html)
+  - Add *doctype* to the previously created HTML documents. See what happens if you remove it. (*Remember*: [HTML5 - DOCTYPE](https://diveintohtml5.info/semantics.html))
   - Add metatags to the document.
-  - Add the meta viewport tag. Check what happens in a mobile browser with or without it. (Remember: [HTML5 - META-VIEWPORT](https://www.quirksmode.org/mobile/metaviewport/)
-  - Validate your markup: W3C Validator (Remember: [HTML5 - META-VIEWPORT](http://validator.w3.org/)
+  - Add the meta viewport tag. Check what happens in a mobile browser with or without it. (*Remember*: [HTML5 - META-VIEWPORT](https://www.quirksmode.org/mobile/metaviewport/))
+  - Validate your markup: W3C Validator (*Remember*: [HTML5 - META-VIEWPORT](http://validator.w3.org/))
 
-- 3 Validate your markup to see if it is accessible: [Tools](./docs/topic1#tools.md)
+- 3 Validate your markup to see if it is accessible: [Tools](./topic1#tools.md)
   - Install a screen reader like ChromeVox, and test your HTML document.
   - Install Accessibility Developer Tools, and perform an audit on your markup. 
 
