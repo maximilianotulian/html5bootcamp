@@ -13,7 +13,7 @@ HTML (Hypertext Markup Language) **is not a programming language**; it is a *mar
 You have to think that the code that you are going to write will read it again and again in the future. Not only for you but also for other developers. That's why we need to write quality code.
 
 - HTML
-  - [HTML5 Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [HTML5 - Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - [W3 - HTML](https://www.w3.org/standards/webdesign/htmlcss.html)
   - [HTML5 - Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation)
   - [HTML5 - Multimedia](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
@@ -75,5 +75,13 @@ After this presentation and reading of the HTML documentation, we are ready for 
 
 > By now, you should have several html files with different examples of how to create lists, tables, add images, headers, etc. All the markup is syntactically valid, is semantic, passes the HTML validator, and is accessible.
 
+
+## Bibliography
+
+  - [W3](https://www.w3schools.com/)
+  - [Developer mozilla](https://developer.mozilla.org/)
+  - [Diveintohtml5](https://diveintohtml5.info/)
+  - [Quirksmode](https://www.quirksmode.org/)
+  - [Chrome web store](https://chrome.google.com/webstore/)
 
 [-> To index](../README.md#title)
