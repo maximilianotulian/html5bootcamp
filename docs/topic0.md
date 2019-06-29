@@ -64,16 +64,4 @@ Think that your code will be read again and again in the future. Not only for yo
 - Javascript - https://github.com/airbnb/javascript
 - React - https://github.com/airbnb/javascript/tree/master/react
 
-<p class="flex space-between">
-  <a src="../README.md"><- To index</a>
-  <a src="./topic1.md">Topic 1 - HTML-></a>
-</p>
-
-<style>
-.flex {
-  display: flex;
-}
-.space-between {
-  justify-content: space-between;
-}
-</style>
+[<- To index](../README.md#title) - [Topic 1 - HTML ->](./topic1.md)

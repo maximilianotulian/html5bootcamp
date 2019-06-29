@@ -86,16 +86,4 @@ After this presentation and reading of the HTML documentation, we are ready for 
   - [Quirksmode](https://www.quirksmode.org/)
   - [Chrome web store](https://chrome.google.com/webstore/)
 
-<p class="flex space-between">
-  <a src="../README.md"><- To index</a>
-  <a src="./topic1.md">Topic 2 - Javascript -></a>
-</p>
-
-<style>
-.flex {
-  display: flex;
-}
-.space-between {
-  justify-content: space-between;
-}
-</style>
+[<- To index](../README.md#title) - [Topic 2 - Javascript ->](./topic2.md)
