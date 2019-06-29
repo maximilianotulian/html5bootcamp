@@ -10,7 +10,7 @@ Then, will be time to apply the new skills altogether. You will be asked to crea
 
 Your career as a Web UI Developer starts today, are you ready?
 
-## Set up
+## Set up your environment
 
 Create an set up your GitHub account. Follow the next guideline to set up your account.
 
