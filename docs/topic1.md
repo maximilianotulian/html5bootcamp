@@ -20,7 +20,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 1. [HTML Basics](#html-basics)
 2. [HTML Semantics](#html-semantics)
-3. [Accessibility](#html-accessibility)
+3. [Accessibility](#accessibility)
 
 ## Exercises
 
