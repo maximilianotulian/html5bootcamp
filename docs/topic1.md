@@ -18,9 +18,9 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ## Index
 
-1. [HTML Basics](#html-basic)
-2. [Semantic & DOCTYPE](#html-semantic)
-3. [W3C Accessibility](#html-a19y)
+1. [HTML Basics](#html-basics)
+2. [HTML Semantics](#html-semantics)
+3. [Accessibility](#html-accessibility)
 
 ## Exercises
 
@@ -28,7 +28,10 @@ After this presentation and reading of the HTML documentation, we are ready for 
 
 > Is prefered a 'commit' point by point... That way is posible to see the progress and identify the problems easily.
 
-1 - Docs
+### HTML Basics
+
+#### Documentation
+
 - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html)
 - [HTML & Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation)
@@ -49,7 +52,9 @@ After this presentation and reading of the HTML documentation, we are ready for 
 - Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email).
 - Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
 
-2 - Docs
+### HTML Semantics
+
+#### Documentation
 
 - [What does it all mean?](https://diveintohtml5.info/semantics.html)
 - [Meta-viewport](https://www.quirksmode.org/mobile/metaviewport/)
@@ -61,7 +66,9 @@ After this presentation and reading of the HTML documentation, we are ready for 
 - Add the meta viewport tag. Check what happens in a mobile browser with or without it.
 - Validate your markup: W3C Validator.
 
-3 - Docs
+### Accessibility
+
+#### Documentation
 
 - [W3C - Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
