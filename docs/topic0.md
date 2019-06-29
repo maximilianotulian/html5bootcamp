@@ -30,6 +30,22 @@ Install NodeJS and http-server.
    npm install -g http-server`
  ```
 
+## Documentation
+
+Read and follow the documentation provided in each topic. That will help you to start developing in the right way and avoid dragging errors from the beginning.
+
+> Think, that the code that you are going to write will be read it again and again. Not only for you but also for other developers.
+
+That's why is recommended to write quality and readeable code.
+
+## Standards
+
+Read and follow the next standards. They were created to make the code scalable, readable and understandable to other developers.
+
+- CSS - https://github.com/airbnb/css
+- Javascript - https://github.com/airbnb/javascript
+- React - https://github.com/airbnb/javascript/tree/master/react
+
 ## Methodology
 
 It's simple, try to follow the next RPC pattern.
@@ -53,15 +69,5 @@ The questions are:
 After the daily meeting, you will have a chat in slack with your partners and tutor to ask a question. Also, you will have another chat with your partners to discuss different topics.
 
 Finally, one day a week, you'll be invited to arrive at the office to know more about the company and have a face to face interchange with the tutors.
-
-## Standards
-
-Read and follow the next standards. They were created to make the code scalable, readable and understandable to other developers.
-
-Think that your code will be read again and again in the future. Not only for you but also for other developers. Be kindly to your future you.
-
-- CSS - https://github.com/airbnb/css
-- Javascript - https://github.com/airbnb/javascript
-- React - https://github.com/airbnb/javascript/tree/master/react
 
 [<- To index](../README.md#title) - [Topic 1 - HTML ->](./topic1.md)

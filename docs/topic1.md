@@ -8,12 +8,7 @@ It can be as complicated or as simple as the web developer wishes it to be. HTML
 
 This topic will be very important to start creating the base of UI programing.
 
-## Documentation
-
-> Read and follow this documentation to start developing in the right way and avoid dragging errors from the beginning.
-
-You have to think that the code that you are going to write will read it again and again in the future. Not only for you but also for other developers. That's why we need to write quality code.
-
+## Index
 - HTML
   - [HTML5 - Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - [W3 - HTML](https://www.w3.org/standards/webdesign/htmlcss.html)
