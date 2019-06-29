@@ -2,9 +2,11 @@
 
 ## Description
 
-HTML (Hypertext Markup Language) **is not a programming language**; it is a *markup language* used to tell your browser how to structure the web pages you visit. It can be as complicated or as simple as the web developer wishes it to be. HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of the content to make it appear or act a certain way. The enclosing tags can make a bit of content into a hyperlink to link to another page on the web, italicize words, and so on.
+HTML (Hypertext Markup Language) **is not a programming language**; it is a *markup language* used to tell your browser how to structure the web pages you visit.
+It can be as complicated or as simple as the web developer wishes it to be. HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of the content to make it appear or act a certain way.
 
-> Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS [ -> to topic 2 - CSS & HTML](./topic2.md)) or functionality/behavior (JavaScript [ -> toTopic 3 - Javascript](./topic3.md)).
+
+This topic will be very important to start creating the base of UI programing.
 
 ## Documentation
 
@@ -84,4 +86,16 @@ After this presentation and reading of the HTML documentation, we are ready for 
   - [Quirksmode](https://www.quirksmode.org/)
   - [Chrome web store](https://chrome.google.com/webstore/)
 
-[-> To index](../README.md#title)
+<p class="flex space-between">
+  <a src="../README.md"><- To index</a>
+  <a src="./topic1.md">Topic 2 - Javascript -></a>
+</p>
+
+<style>
+.flex {
+  display: flex;
+}
+.space-between {
+  justify-content: space-between;
+}
+</style>
