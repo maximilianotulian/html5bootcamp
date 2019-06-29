@@ -20,7 +20,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 1 - HTML
 
-  - [HTML - Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [HTML - Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   - [W3C - HTML](https://www.w3.org/standards/webdesign/htmlcss.html)
   - [HTML - Form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Form_validation)
   - [HTML - Multimedia](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
