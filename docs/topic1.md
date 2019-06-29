@@ -78,13 +78,4 @@ After this presentation and reading of the HTML documentation, we are ready for 
 
 > By now, you should have several html files with different examples of how to create lists, tables, add images, headers, etc. All the markup is syntactically valid, is semantic, passes the HTML validator, and is accessible.
 
-
-## Bibliography
-
-  - [W3](https://www.w3schools.com/)
-  - [Developer mozilla](https://developer.mozilla.org/)
-  - [Diveintohtml5](https://diveintohtml5.info/)
-  - [Quirksmode](https://www.quirksmode.org/)
-  - [Chrome web store](https://chrome.google.com/webstore/)
-
 [<- To index](../README.md#title) - [Topic 2 - Javascript ->](./topic2.md)
