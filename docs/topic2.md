@@ -27,30 +27,32 @@
     </head>
     <body>
       <header>
-
+         This is a header
       </header>
         <nav>
-
+           This is a nav
         </nav>
 
         <section>
           <header>
-
+              Omg, another header
           </header>
 
           <article>
-
+              This is an article
           </article>
 
           <footer>
-
+              Footloose
           </footer>
         </section>
 
         <aside>
+         This is a aside
         </aside>
 
       <footer>
+         Footloose pt2
       </footer>
     </body>
 
@@ -83,5 +85,21 @@
 - Imagine there is a declaration like class=”oh-no-inline-styles” style=”background:red” and you need to change the background to green without changing the inline style. How could you accomplish this?
 
 **3. Box-model**
+- Use the playground provided above to change box-sizing
+- Add padding of 140px to `.navigation`
+- Add margin of 100px to `.sidebar`.
 - Experiment with the box-model here by changing width / margin / padding / box-sizing http://dabblet.com/gist/2986528
-- 
+
+**4. Layout**
+
+Documentation
+- https://adamschwartz.co/magic-of-css/chapters/2-layout/
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Box_model_recap#Box_display_types
+
+4.A
+- Now modify your CSS to reach something similar to the next layout (remove padding and margin of the box model exercice)
+
+Image
+
+4.B
+
