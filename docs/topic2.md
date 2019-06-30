@@ -102,6 +102,7 @@ Documentation
 Image
 
 4.B
+
 Documentation
 - Learn how to create your own layout system [Grid Systems](http://adamkaplan.me/grid/)
 - Learn how to float elements [CSS Floats](http://alistapart.com/article/css-floats-101/)
