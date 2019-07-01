@@ -15,8 +15,15 @@ Welcome to Globant's training for Web UI Developers.
 
 ## Bibliography
 
+- [Adamkaplan web](http://www.adamkaplan.me)
+- [Adamschwartz web](http://adamschwartz.co/)
+- [Alistapart web](http://alistapart.com)
 - [Chrome web store](https://chrome.google.com/webstore/)
+- [CSS tricks](http://css-tricks.com/)
 - [Developer mozilla](https://developer.mozilla.org/)
-- [Diveintohtml5](https://diveintohtml5.info/)
+- [Dive into html5](https://diveintohtml5.info/)
+- [Learn layout](http://learnlayout.com)
+- [Meyer Web](https://meyerweb.com/)
+- [Normalize](http://necolas.github.io/)
 - [Quirksmode](https://www.quirksmode.org/)
 - [W3C](https://www.w3schools.com/)
