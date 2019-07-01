@@ -13,7 +13,7 @@ Cascading Stylesheets — or CSS — is the first technology you should start le
 
 ## Exercises
 
-For this and the next exercises use the [base template](./assets/index.html).
+For this and the next exercises use the base template available at "/assets/index.html".
 
 ### Selectors and properties
 
@@ -71,6 +71,7 @@ Add the following rules the previous css created.
 
 - [Introduction to box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Box_model_recap)
 - [Box model calculation](http://www.w3.org/TR/CSS21/box.html)
+- [Other types of boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Box_model_recap#Box_display_types)
 
 3.A
 - Use the playground provided above to change box-sizing
@@ -82,21 +83,21 @@ Add the following rules the previous css created.
 
 #### Documentation
 
-- [Layout basics](https://adamschwartz.co/magic-of-css/chapters/2-layout/)
-- [Other types of boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Box_model_recap#Box_display_types)
+- [Display property - part 1](http://learnlayout.com/display.html)
+- [Display property - part 2](http://adamschwartz.co/magic-of-css/chapters/2-layout/)
+- [Learn media queries](http://css-tricks.com/css-media-queries/)
+- [Grid Systems](http://www.adamkaplan.me/grid/)
+- [CSS Floats](http://alistapart.com/article/css-floats-101)
+- [CSS units](http://alistapart.com/article/love-the-boring-bits-of-css)
 
 4.A
 
-- Now modify your CSS to reach something similar to the next layout (remove padding and margin of the box model exercice)
+- Modify your CSS to reach something similar to the initial layout asked.
 
 4.B
 
-Documentation
-- Learn how to create your own layout system [Grid Systems](http://adamkaplan.me/grid/)
-- Learn how to float elements [CSS Floats](http://alistapart.com/article/css-floats-101/)
-- Learn about [CSS units](http://alistapart.com/article/love-the-boring-bits-of-css/)
-
-Exercice:
-- Using your own layout system, implement an HTML page based on the following mock-up (only desktop).
+- Learn about layout system
+- Using your own layout system, implement an HTML page with a header. Three columns in the middle and one column for the footer.
+- Adapt your the template system to work on three different breakpoints.
 
 [<- To index](../README.md#title) - [Topic 3 - Javascript ->](./topic3.md)
