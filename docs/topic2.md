@@ -13,7 +13,7 @@ Cascading Stylesheets — or CSS — is the first technology you should start le
 
 ## Exercises
 
-For this and the next exercises use the base template available at "/assets/index.html".
+For this and the next exercises use the base template called index.html inside the assets. [here](../assets/index.html).
 
 ### Selectors and properties
 
